@@ -10,7 +10,7 @@
 * git status (show changed files)
 * git diff (show changed file content)
 
-Extra Lines that I will delete
+Extra Lines that I will delete adding feature back in making it better.
 
 # This is my first modification - Daniel
 
