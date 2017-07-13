@@ -10,6 +10,9 @@
 * git status (show changed files)
 * git diff (show changed file content)
 
+Extra Lines that I will delete adding feature back in making it better.
+Make it even better.
+
 # This is my first modification - Daniel
 
 # This is my sample line for tina_test branch 
